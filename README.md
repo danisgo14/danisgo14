@@ -9,18 +9,23 @@
 ## 📂 Projetos em Destaque
 🔹 **Análise de Mercado — Cafeterias em Los Angeles**  
 Análise estratégica de food service com foco em concorrência, capacidade operacional e oportunidades de mercado.
+https://github.com/danisgo14/robot_cafeteria 
 
 🔹 **Teste A/B — E-commerce**  
 Avaliação estatística de experimentos para decisão baseada em dados.
+https://github.com/danisgo14/ecommerce
 
 🔹 **Teste A/A/B — Funil Digital**  
 Validação de grupos de controle e análise de impacto de variações.
+https://github.com/danisgo14/aab_test_project
 
 🔹 **Análise de Marketing — Y.Afisha**  
 Estudo de conversão, receita e performance por dispositivo e canal.
+https://github.com/danisgo14/yaisha
 
 🔹 **Análise de Mobilidade Urbana — Flash Cab**  
 Exploração de padrões de corridas e impacto de fatores externos.
+https://github.com/danisgo14/flashcab
 
 > 📌 Veja todos os projetos nos repositórios fixados abaixo ⬇️
 
